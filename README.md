@@ -24,11 +24,17 @@ Aplicativo Android para acesso e interação com bancos de dados.
 
 [![Disponível no Google Play](https://img.shields.io/badge/Google_Play-Acessar_aplicativo-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.guibede.DBSQLGUIBE)
 
-### 🚗 Estaciona Fácil
+### 🚗 Estaciona Fácil — Web
 
 Jogo de estacionamento executado diretamente no navegador, com desafios de direção e precisão.
 
 [![Jogar no navegador](https://img.shields.io/badge/Jogar_Agora-Acessar_jogo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guilhermedeziderio.github.io/estaciona-facil/)
+
+### 📱 Estaciona Fácil — Android
+
+Versão Android do jogo Estaciona Fácil, disponível para instalação pela Google Play.
+
+[![Disponível no Google Play](https://img.shields.io/badge/Google_Play-Acessar_jogo-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.guibede.EstacionaFacil)
 
 ### 🧤 Goleiro Pro
 
