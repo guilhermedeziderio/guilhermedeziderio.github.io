@@ -24,6 +24,12 @@ Aplicativo Android para acesso e interação com bancos de dados.
 
 [![Disponível no Google Play](https://img.shields.io/badge/Google_Play-Acessar_aplicativo-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.guibede.DBSQLGUIBE)
 
+### 🧩 loop
+
+Jogo de estratégia offline com 40 puzzles e desafios construídos a partir dos ecos das suas jogadas anteriores.
+
+[![Disponível no Google Play](https://img.shields.io/badge/Google_Play-Acessar_jogo-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.guibede.Loop)
+
 ### 🚗 Estaciona Fácil — Web
 
 Jogo de estacionamento executado diretamente no navegador, com desafios de direção e precisão.
