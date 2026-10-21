@@ -56,7 +56,7 @@ Um jogo de quebra-cabeças moderno para Android, com desafios para testar sua at
 - 📸 Monte quebra-cabeças com suas próprias fotos.
 - ✨ Aproveite um visual moderno.
 
-[📲 Disponível no Google Play](https://play.google.com/store/apps/details?id=com.guibede.PuzzleWorlds)
+[![Disponível no Google Play](https://img.shields.io/badge/Google_Play-Acessar_jogo-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.guibede.PuzzleWorlds)
 
 ## 💡 Áreas de atuação
 
