@@ -48,6 +48,16 @@ Jogo Android no qual você assume o papel de goleiro, conquista pontos e avança
 
 [![Disponível no Google Play](https://img.shields.io/badge/Google_Play-Acessar_jogo-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.goleiropro)
 
+### 🧩 Puzzle Worlds
+
+Um jogo de quebra-cabeças moderno para Android, com desafios para testar sua atenção e raciocínio. Use fotos da sua galeria para criar quebra-cabeças personalizados e transformar suas lembranças em diversão!
+
+- 🎯 Enfrente desafios e teste suas habilidades.
+- 📸 Monte quebra-cabeças com suas próprias fotos.
+- ✨ Aproveite um visual moderno.
+
+[📲 Disponível no Google Play](https://play.google.com/store/apps/details?id=com.guibede.PuzzleWorlds)
+
 ## 💡 Áreas de atuação
 
 - Desenvolvimento e manutenção de sistemas corporativos
